@@ -138,3 +138,7 @@ C# 8.0 Nullable reference type을 연습삼아 사용해봤는데, 이렇게 좋
 > 변경으로부터 격리
 
 상세한 구현에 의존하는 클라이언트 클래스는 구현이 바뀌면 위험에 빠진다. 상세한 구현에 의존하는 코드는 테스트가 어렵다. 더미 클래스를 만들 수 있도록 인터페이스를 분리하자. 의존성 주입은 덤이다.
+
+> Inheritance violates encapsulation. A subclass depends on the implementation details of its superclass for its proper function.
+
+정말 맞는 말인데 생각해본 적이 없다.
