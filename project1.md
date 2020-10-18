@@ -43,8 +43,6 @@ sbt shell에서 stage를 입력하면 실행할 수 있는 파일이 생성됩�
 
 ![imgs/milestone1_run_master.png](imgs/milestone1_run_master.png)
 
-Run Master
-
 ## Worker
 
 마스터가 이미 실행되어 있어야 합니다.
@@ -58,8 +56,6 @@ Run Master
 화면에 표시된 INFO들은 아웃풋 폴더의 log.log 파일로도 저장됩니다.
 
 ![imgs/milestone1_run_worker.png](imgs/milestone1_run_worker.png)
-
-Run Worker
 
 # Notes
 
